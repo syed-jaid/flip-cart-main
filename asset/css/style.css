@@ -1,0 +1,138 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* heaer style */
+.header {
+    background-color: #2874F0;
+    padding-bottom: 40px;
+}
+
+.search-field input {
+    margin-top: 10px;
+    width: 95%;
+    margin: auto;
+    display: block;
+    border-radius: 5px;
+    background-color: #fff;
+    border: none;
+    padding: 10px;
+
+}
+
+.banner h2 {
+    font-size: 40px;
+}
+
+.slogan {
+    margin-top: 10px;
+}
+
+.slogan h2 {
+    margin-bottom: 20px;
+}
+
+.sale-button {
+    background-color: black;
+    border: none;
+    color: #fff;
+    padding: 5px 10px;
+    margin-bottom: 15px;
+}
+
+/* END Part */
+.deals h2 {
+    color: #7B48EC;
+    font-size: 2rem;
+}
+
+.deals h4 {
+    color: #000000;
+}
+
+.partner img {
+    width: 200px;
+}
+
+.end-part-wraper button {
+    background-color: #FF5671;
+    border: none;
+    color: #fff;
+    padding: 5px 30px;
+    margin: 5px 5px;
+    border-radius: 5px;
+
+}
+
+.end-part-wraper img {
+    width: 240px;
+    height: 152px;
+    margin-top: -79px;
+}
+
+i.fa-solid.fa-fire {
+    font-size: 5rem;
+    color: #F87E71;
+    margin-top: -41px;
+}
+
+/* product sytle */
+.product h4 {
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+.card {
+    padding: 10px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.rating i {
+    color: #189718
+}
+
+.offer {
+    color: #189718;
+}
+
+span {
+    margin-right: 10px;
+}
+
+
+
+/* Responsive media qurey style */
+@media only screen and (max-width: 500px) {
+    i.fa-solid.fa-fire {
+        font-size: 3rem;
+        color: #F87E71;
+        margin-top: -41px;
+    }
+
+    .banner-img {
+        width: 100px !important;
+        margin-top: 20px Im !important;
+    }
+
+    .banner h2 {
+        font-size: 2rem;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    i.fa-solid.fa-fire {
+        font-size: 3rem;
+        color: #F87E71;
+        margin-top: -41px;
+    }
+
+    .banner-img {
+        width: 100px !important;
+        margin-top: 20px Im !important;
+    }
+
+    .banner h2 {
+        font-size: 2rem;
+    }
+}
